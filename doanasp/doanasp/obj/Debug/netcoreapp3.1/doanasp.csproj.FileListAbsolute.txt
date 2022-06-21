@@ -755,11 +755,6 @@ C:\Users\locph\OneDrive\Documents\DoanTotNghiep\doanasp\doanasp\obj\Debug\netcor
 C:\Users\locph\OneDrive\Documents\DoanTotNghiep\doanasp\doanasp\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProductTypes\Details.cshtml.g.cs
 C:\Users\locph\OneDrive\Documents\DoanTotNghiep\doanasp\doanasp\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProductTypes\Edit.cshtml.g.cs
 C:\Users\locph\OneDrive\Documents\DoanTotNghiep\doanasp\doanasp\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProductTypes\Index.cshtml.g.cs
-C:\Users\locph\OneDrive\Documents\DoanTotNghiep\doanasp\doanasp\obj\Debug\netcoreapp3.1\Razor\Views\Carts\Create.cshtml.g.cs
-C:\Users\locph\OneDrive\Documents\DoanTotNghiep\doanasp\doanasp\obj\Debug\netcoreapp3.1\Razor\Views\Carts\Delete.cshtml.g.cs
-C:\Users\locph\OneDrive\Documents\DoanTotNghiep\doanasp\doanasp\obj\Debug\netcoreapp3.1\Razor\Views\Carts\Details.cshtml.g.cs
-C:\Users\locph\OneDrive\Documents\DoanTotNghiep\doanasp\doanasp\obj\Debug\netcoreapp3.1\Razor\Views\Carts\Edit.cshtml.g.cs
-C:\Users\locph\OneDrive\Documents\DoanTotNghiep\doanasp\doanasp\obj\Debug\netcoreapp3.1\Razor\Views\Carts\Index.cshtml.g.cs
 C:\Users\locph\OneDrive\Documents\DoanTotNghiep\doanasp\doanasp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Checkout.cshtml.g.cs
 C:\Users\locph\OneDrive\Documents\DoanTotNghiep\doanasp\doanasp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\locph\OneDrive\Documents\DoanTotNghiep\doanasp\doanasp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
@@ -777,9 +772,4 @@ C:\Users\locph\OneDrive\Documents\DoanTotNghiep\doanasp\doanasp\obj\Debug\netcor
 C:\Users\locph\OneDrive\Documents\DoanTotNghiep\doanasp\doanasp\obj\Debug\netcoreapp3.1\doanasp.dll
 C:\Users\locph\OneDrive\Documents\DoanTotNghiep\doanasp\doanasp\obj\Debug\netcoreapp3.1\doanasp.pdb
 C:\Users\locph\OneDrive\Documents\DoanTotNghiep\doanasp\doanasp\obj\Debug\netcoreapp3.1\doanasp.genruntimeconfig.cache
-C:\Users\locph\OneDrive\Documents\DoanTotNghiep\doanasp\doanasp\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
-C:\Users\locph\OneDrive\Documents\DoanTotNghiep\doanasp\doanasp\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout1.cshtml.g.cs
-C:\Users\locph\OneDrive\Documents\DoanTotNghiep\doanasp\doanasp\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Login.cshtml.g.cs
-C:\Users\locph\OneDrive\Documents\DoanTotNghiep\doanasp\doanasp\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\locph\OneDrive\Documents\DoanTotNghiep\doanasp\doanasp\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
-C:\Users\locph\OneDrive\Documents\DoanTotNghiep\doanasp\doanasp\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\locph\OneDrive\Documents\DoanTotNghiep\doanasp\doanasp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Shop.cshtml.g.cs
