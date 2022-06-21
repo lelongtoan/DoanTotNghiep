@@ -8474,19 +8474,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ninhx\\.nuget\\packages\\": {}
+    "C:\\Users\\locph\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ninhx\\OneDrive\\Documents\\GitHub\\ASP\\doanasp\\doanasp\\doanasp.csproj",
+      "projectUniqueName": "C:\\Users\\locph\\OneDrive\\Documents\\DoanTotNghiep\\doanasp\\doanasp\\doanasp.csproj",
       "projectName": "doanasp",
-      "projectPath": "C:\\Users\\ninhx\\OneDrive\\Documents\\GitHub\\ASP\\doanasp\\doanasp\\doanasp.csproj",
-      "packagesPath": "C:\\Users\\ninhx\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ninhx\\OneDrive\\Documents\\GitHub\\ASP\\doanasp\\doanasp\\obj\\",
+      "projectPath": "C:\\Users\\locph\\OneDrive\\Documents\\DoanTotNghiep\\doanasp\\doanasp\\doanasp.csproj",
+      "packagesPath": "C:\\Users\\locph\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\locph\\OneDrive\\Documents\\DoanTotNghiep\\doanasp\\doanasp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ninhx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\locph\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
