@@ -1,0 +1,36 @@
+﻿@model doanasp.Models.ProductDetail
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>ProductDetail</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Importprice)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Importprice)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Importquantity)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Importquantity)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Totalprice)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Totalprice)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.ProductId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,39 @@
+﻿@model doanasp.Models.ProductDetail
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>ProductDetail</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Importprice)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Importprice)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Importquantity)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Importquantity)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Totalprice)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Totalprice)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="ProductId" />
+        <input type="submit" value="Delete" class="btn btn-default" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>

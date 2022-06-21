@@ -1,0 +1,40 @@
+﻿@model doanasp.Models.ProductDetail
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Create</h2>
+
+<h4>ProductDetail</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Importprice" class="control-label"></label>
+                <input asp-for="Importprice" class="form-control" />
+                <span asp-validation-for="Importprice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Importquantity" class="control-label"></label>
+                <input asp-for="Importquantity" class="form-control" />
+                <span asp-validation-for="Importquantity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Totalprice" class="control-label"></label>
+                <input asp-for="Totalprice" class="form-control" />
+                <span asp-validation-for="Totalprice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
